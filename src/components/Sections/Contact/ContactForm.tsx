@@ -119,7 +119,7 @@ const ContactForm: FC = memo(() => {
                     ref={recaptchaRef}
                     theme="dark"
                     size="normal"
-                    sitekey="6LdHRzcjAAAAAK_pgj_XOvlmIzLEIbfrWnMaIUed"
+                    sitekey="6LcDIXIoAAAAAEicpJL3L-ZpNW__9uMQ4e_P5FEG"
                     onChange={validateCaptcha}
                 /></div>
 
