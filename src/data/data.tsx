@@ -121,7 +121,13 @@ export const heroData: Hero = {
 export const aboutData: About = {
     profileImageSrc: profilePic,
     description: `In my opinion, information technology is not just about binary digits, but more about building strong and authentic values in companies.
+<<<<<<< HEAD
 Authenticity, respect, innovation, sharing, and commitment are strong values in my opinion to cultivate in a dynamic, innovative, simple, sometimes complex, but always surprising universe.`,
+=======
+Authenticity, respect, innovation, sharing, and commitment are strong values in my opinion to cultivate in a dynamic, innovative, simple, sometimes complex, but always surprising universe..
+I have a strong and diverse skill set in the field of information technology, particularly in areas related to digitalization, cloud computing, and information system security. 
+My expertise and proficiency in various technologies and domains make me well-equipped to provide valuable guidance and solutions to my customers.`,
+>>>>>>> parent of 7c06b40 (Update data.tsx )
     aboutItems: [
         {label: 'Location', text: 'Toulouse, France', Icon: MapIcon},
         {label: 'Age', text: '40', Icon: CalendarIcon},
