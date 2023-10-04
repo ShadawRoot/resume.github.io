@@ -318,6 +318,7 @@ export const education: TimelineItem[] = [
     {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         date: '2010-2011',
         location: 'FENA Business School ',
         title: 'Mangment',
@@ -326,11 +327,16 @@ export const education: TimelineItem[] = [
 =======
 =======
 >>>>>>> parent of 57b1412 (Update data.tsx)
+=======
+>>>>>>> parent of 57b1412 (Update data.tsx)
         date: '2022-2023',
         location: 'HackerU Collage',
         title: 'Java, OCA',
         content: <p>Java Full-Stack studies with mobile applications development orientation and modern frameworks.</p>,
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 57b1412 (Update data.tsx)
+=======
 >>>>>>> parent of 57b1412 (Update data.tsx)
 =======
 >>>>>>> parent of 57b1412 (Update data.tsx)
