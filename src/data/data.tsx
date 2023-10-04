@@ -85,7 +85,7 @@ export const heroData: Hero = {
     description: (
         <>
             <p className="prose-sm text-stone-50 sm:prose-base lg:prose-lg">
-                Text based <strong className="text-sky-500">Full Stack System Enginner </strong> & <i className="text-sky-200 fa-brands vmwarePic">CLOUD & ETHICAL HACKING </i> enthusiast. <br></br> Currently
+                I'm working as <strong className="text-sky-500">Infra & System Enginner </strong> & <i className="text-sky-200 fa-brands vmwarePic">CLOUD & ETHICAL HACKING </i> enthusiast. <br></br> Currently
                 working at  <strong className="text-sky-200">CAPGEMINI</strong> as a Full Stack Infra Enginner.
             </p>
 
