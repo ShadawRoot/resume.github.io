@@ -86,7 +86,7 @@ export const heroData: Hero = {
         <>
             <p className="prose-sm text-stone-50 sm:prose-base lg:prose-lg">
                 I'm working as <strong className="text-sky-500">Infra & System Enginner </strong> & <i className="text-sky-200 fa-brands vmwarePic">CLOUD & ETHICAL HACKING </i> enthusiast. <br></br> Currently
-                working at  <strong className="text-sky-200">CAPGEMINI</strong> as a Full Stack Infra Enginner.
+                working at  <strong className="text-sky-200"> Confidential Company</strong> as a Full Stack Infra Enginner.
             </p>
 
 
@@ -129,7 +129,7 @@ My expertise and proficiency in various technologies and domains make me well-eq
         {label: 'Age', text: '40', Icon: CalendarIcon},
         {label: 'Nationality', text: 'Marocaine', Icon: FlagIcon},
         {label: 'Interests', text: 'IT, Gadgets, Diving', Icon: SparklesIcon},
-        {label: 'Study', text: 'HackerU Collage, Maroc', Icon: AcademicCapIcon},
+        {label: 'Study', text: 'Pascal Paoli, France', Icon: AcademicCapIcon},
         {label: 'Employment', text: 'Freelancer', Icon: OfficeBuildingIcon},
     ],
 };
@@ -156,18 +156,18 @@ export const skills: SkillGroup[] = [
         ],
     },
     {
-        name: 'Frontend development',
+        name: 'Systems',
         skills: [
             {
-                name: 'React',
+                name: 'VMware',
                 level: 7,
             },
             {
-                name: 'JavaScript',
+                name: 'Windows',
                 level: 8,
             },
             {
-                name: 'Typescript',
+                name: 'Linux',
                 level: 6,
             },
 
@@ -178,10 +178,10 @@ export const skills: SkillGroup[] = [
         skills: [
             {
                 name: 'Python',
-                level: 9,
+                level: 2,
             },
             {
-                name: 'Java',
+                name: 'PHP',
                 level: 4,
             },
             {
