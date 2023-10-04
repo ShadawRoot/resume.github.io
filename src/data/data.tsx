@@ -317,16 +317,22 @@ export const FavoriteTechItems: FavoriteTechItem[] = [
 export const education: TimelineItem[] = [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         date: '2010-2011',
         location: 'FENA Business School ',
         title: 'Mangment',
         content: <p>Project and portfolio management (PPM)</p>,
         <p>Realization of IT dashboards and KPI</p>,
 =======
+=======
+>>>>>>> parent of 57b1412 (Update data.tsx)
         date: '2022-2023',
         location: 'HackerU Collage',
         title: 'Java, OCA',
         content: <p>Java Full-Stack studies with mobile applications development orientation and modern frameworks.</p>,
+<<<<<<< HEAD
+>>>>>>> parent of 57b1412 (Update data.tsx)
+=======
 >>>>>>> parent of 57b1412 (Update data.tsx)
     },
     {
