@@ -319,7 +319,8 @@ export const education: TimelineItem[] = [
         date: '2010-2011',
         location: 'FENA Business School ',
         title: 'Mangment',
-        content: <p>Management Information Systems and Services.</p>,
+        content: <p>Project and portfolio management (PPM)</p>,
+        <p>Realization of IT dashboards and KPI</p>,
     },
     {
         date: '2020-2020',
