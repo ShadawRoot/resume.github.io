@@ -81,12 +81,12 @@ export type SectionId = typeof SectionId[keyof typeof SectionId];
  */
 export const heroData: Hero = {
     imageSrc: heroImage,
-    name: `I'm Abdelilah LAMHAMDI.`,
+    name: `Hello, I am Abdelilah LAMHAMDI.`,
     description: (
         <>
             <p className="prose-sm text-stone-50 sm:prose-base lg:prose-lg">
                 I'm working as <strong className="text-sky-200">Infra & System Enginner </strong> & <i className="text-sky-200 fa-brands vmwarePic">CLOUD & ETHICAL HACKING </i> enthusiast. <br></br> Currently
-                working at  <strong className="text-sky-200"> Confidential Company</strong> as a Full Stack Infra Enginner.
+                working at  <strong className="text-sky-200">Confidential Company</strong> as a Full Stack Infra Enginner.
             </p>
 
 
@@ -123,10 +123,10 @@ export const aboutData: About = {
     description: `In my opinion, information technology is not just about binary digits, but more about building strong and authentic values in companies.
 Authenticity, respect, innovation, sharing, and commitment are strong values in my opinion to cultivate in a dynamic, innovative, simple, sometimes complex, but always surprising universe.`,
     aboutItems: [
-        {label: 'Location', text: 'Touulouse, France', Icon: MapIcon},
+        {label: 'Location', text: 'Toulouse, France', Icon: MapIcon},
         {label: 'Age', text: '40', Icon: CalendarIcon},
         {label: 'Nationality', text: 'Marocaine', Icon: FlagIcon},
-        {label: 'Interests', text: 'IT, Gadgets, Diving', Icon: SparklesIcon},
+        {label: 'Interests', text: 'IT,Cloud, Security, DevOps, Design, Diving', Icon: SparklesIcon},
         {label: 'Study', text: 'Pascal Poali, France', Icon: AcademicCapIcon},
         {label: 'Employment', text: 'Freelancer', Icon: OfficeBuildingIcon},
     ],
