@@ -85,8 +85,8 @@ export const heroData: Hero = {
     description: (
         <>
             <p className="prose-sm text-stone-50 sm:prose-base lg:prose-lg">
-                Text based <strong className="text-sky-500">Full Stack System Enginner </strong> & <i className="text-sky-200 fa-brands vmwarePic"> CLOUD</i> enthusiast. <br></br> Currently
-                working at  <strong className="text-sky-200">CAPGEMINI</strong> as a Full Stack System & Infra Enginner.
+                Text based <strong className="text-sky-500">Full Stack System Enginner </strong> & <i className="text-sky-200 fa-brands vmwarePic">CLOUD & ETHICAL HACKING </i> enthusiast. <br></br> Currently
+                working at  <strong className="text-sky-200">CAPGEMINI</strong> as a Full Stack Infra Enginner.
             </p>
 
 
@@ -102,7 +102,7 @@ export const heroData: Hero = {
     ),
     actions: [
         {
-            href: 'https://drive.google.com/file/d/1G4maVgoRbcECff_XpZDrlP3HNQjNmG6v/view?usp=share_link',
+            href: 'https://drive.google.com/file/d/1M5jndPJIw2H-3_0ZJl39I8PsDZCZmLI-/view?usp=drive_link',
             text: 'Resume',
             primary: true,
             Icon: DownloadIcon,
