@@ -55,7 +55,7 @@ import {
  */
 export const homePageMeta: HomepageMeta = {
     title: 'Abdelilah LAMHAMDI',
-    description: "My Professional Resume Website.",
+    description: "My Professional Resume and Portfolio Website.",
 };
 
 /**
@@ -81,12 +81,12 @@ export type SectionId = typeof SectionId[keyof typeof SectionId];
  */
 export const heroData: Hero = {
     imageSrc: heroImage,
-    name: `Hello, Iam Abdelilah LAMHAMDI.`,
+    name: `I'm Abdelilah LAMHAMDI.`,
     description: (
         <>
             <p className="prose-sm text-stone-50 sm:prose-base lg:prose-lg">
                 I'm working as <strong className="text-sky-500">Infra & System Enginner </strong> & <i className="text-sky-200 fa-brands vmwarePic">CLOUD & ETHICAL HACKING </i> enthusiast. <br></br> Currently
-                working at  <strong className="text-sky-200"> Confidential Company</strong> as a Full Stack Infra Enginner.
+                working at  <strong className="text-sky-200">CAPGEMINI</strong> as a Full Stack Infra Enginner.
             </p>
 
 
@@ -120,16 +120,16 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
     profileImageSrc: profilePic,
-    description: <li>`In my opinion, information technology is not just about binary digits, but more about building strong and authentic values in companies.</li>
-<li>Authenticity, respect, innovation, sharing, and commitment are strong values in my opinion to cultivate in a dynamic, innovative, simple, sometimes complex, but always surprising universe.</li>
-<li>I have a strong and diverse skill set in the field of information technology, particularly in areas related to digitalization, cloud computing, and information system security.</li>
-<li>My expertise and proficiency in various technologies and domains make me well-equipped to provide valuable guidance and solutions to my customers.`,</li>
+    description: `I'm a diligent software developer with years of experience in e-commerce automatization's and overall
+  python based business applications.
+  Developer with none standard thinking, very often coming with creative new ideas or improvements... Not many know but I traveled half the world and visited more than 50 countries as of today. During my travels one country touched me the most, Japan.
+  I was amazed of the culture and the food and decided to take my enthusiasm a step forward. I studied about Japan and learned how to cook Japanese food. Mastered sushi making, so I am not just a software developer but secretly a chef too.`,
     aboutItems: [
         {label: 'Location', text: 'Center, Maroc', Icon: MapIcon},
         {label: 'Age', text: '40', Icon: CalendarIcon},
         {label: 'Nationality', text: 'Marocaine', Icon: FlagIcon},
         {label: 'Interests', text: 'IT, Gadgets, Diving', Icon: SparklesIcon},
-        {label: 'Study', text: 'Pascal Paoli, France', Icon: AcademicCapIcon},
+        {label: 'Study', text: 'HackerU Collage, Maroc', Icon: AcademicCapIcon},
         {label: 'Employment', text: 'Freelancer', Icon: OfficeBuildingIcon},
     ],
 };
@@ -156,18 +156,18 @@ export const skills: SkillGroup[] = [
         ],
     },
     {
-        name: 'Systems',
+        name: 'Frontend development',
         skills: [
             {
-                name: 'VMware',
+                name: 'React',
                 level: 7,
             },
             {
-                name: 'Windows',
+                name: 'JavaScript',
                 level: 8,
             },
             {
-                name: 'Linux',
+                name: 'Typescript',
                 level: 6,
             },
 
@@ -178,10 +178,10 @@ export const skills: SkillGroup[] = [
         skills: [
             {
                 name: 'Python',
-                level: 2,
+                level: 9,
             },
             {
-                name: 'PHP',
+                name: 'Java',
                 level: 4,
             },
             {
