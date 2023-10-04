@@ -55,7 +55,7 @@ import {
  */
 export const homePageMeta: HomepageMeta = {
     title: 'Abdelilah LAMHAMDI',
-    description: "My Professional Resume and Portfolio Website.",
+    description: "My Professional Resume Website.",
 };
 
 /**
@@ -120,10 +120,10 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
     profileImageSrc: profilePic,
-    description: `In my opinion, information technology is not just about binary digits, but more about building strong and authentic values in companies.
-Authenticity, respect, innovation, sharing, and commitment are strong values in my opinion to cultivate in a dynamic, innovative, simple, sometimes complex, but always surprising universe..
-I have a strong and diverse skill set in the field of information technology, particularly in areas related to digitalization, cloud computing, and information system security. 
-My expertise and proficiency in various technologies and domains make me well-equipped to provide valuable guidance and solutions to my customers.`,
+    description: <li>`In my opinion, information technology is not just about binary digits, but more about building strong and authentic values in companies.</li>
+<li>Authenticity, respect, innovation, sharing, and commitment are strong values in my opinion to cultivate in a dynamic, innovative, simple, sometimes complex, but always surprising universe.</li>
+<li>I have a strong and diverse skill set in the field of information technology, particularly in areas related to digitalization, cloud computing, and information system security.</li>
+<li>My expertise and proficiency in various technologies and domains make me well-equipped to provide valuable guidance and solutions to my customers.`,</li>
     aboutItems: [
         {label: 'Location', text: 'Center, Maroc', Icon: MapIcon},
         {label: 'Age', text: '40', Icon: CalendarIcon},
