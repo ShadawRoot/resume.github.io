@@ -55,7 +55,7 @@ import {
  */
 export const homePageMeta: HomepageMeta = {
     title: 'Abdelilah LAMHAMDI',
-    description: "My Professional Resume and Portfolio Website.",
+    description: "My Professional Resume Website.",
 };
 
 /**
@@ -102,7 +102,7 @@ export const heroData: Hero = {
     ),
     actions: [
         {
-            href: 'https://drive.google.com/file/d/1M5jndPJIw2H-3_0ZJl39I8PsDZCZmLI-/view',
+            href: 'https://drive.google.com/file/d/1M5jndPJIw2H-3_0ZJl39I8PsDZCZmLI-/view?usp=drive_link',
             text: 'Resume',
             primary: true,
             Icon: DownloadIcon,
@@ -214,25 +214,25 @@ export const portfolioItems: PortfolioItem[] = [
     {
         title: 'Top10',
         description: 'React, Python, MySql based AI websites engine that building itself automatically. Building it own content, graphics, articles and also promoting it own content by google ads and self managing promoted campaigns based on statistics and income.',
-        url: 'https://github.com/georgekhananaev',
+        url: 'https://shadawroot.github.io/resume.github.io/',
         image: topTen,
     },
     {
         title: 'MediaRobot',
         description: "Pure Python Bot. Which is extracting fresh data from marketplaces such as AliExpress and Amazon and then creating video based reviews. All videos uploaded by API to YouTube. Driving affiliated traffic and creating income automatically. Click Here for Video Sample.",
-        url: 'https://www.youtube.com/watch?v=PeguOBRrJXM',
+        url: 'https://shadawroot.github.io/resume.github.io/',
         image: mediaRobot,
     },
     {
         title: 'Resume Website',
         description: "This is my personal resume website. React, JS, TYPESCRIPT based. It based on open source code, however many key features added and fixed by me. More features will be added... Click Here for Source Code.",
-        url: 'https://github.com/georgekhananaev/resume-website',
+        url: 'https://shadawroot.github.io/resume.github.io/',
         image: resumeWebsite,
     },
     {
         title: 'py-image-compressor',
         description: "Open-Source small weight Python based tool. This tool convert multiple images at once to modern formats such as webp. Can speed up any website with a single command.",
-        url: 'https://github.com/georgekhananaev/py-image-compressor',
+        url: 'https://shadawroot.github.io/resume.github.io/',
         image: pyImageCompressor,
     },
 
@@ -316,10 +316,10 @@ export const FavoriteTechItems: FavoriteTechItem[] = [
  */
 export const education: TimelineItem[] = [
     {
-        date: '2022-2023',
-        location: 'HackerU Collage',
-        title: 'Java, OCA',
-        content: <p>Java Full-Stack studies with mobile applications development orientation and modern frameworks.</p>,
+        date: '2010-2011',
+        location: 'FENA Business School ',
+        title: 'Mangment',
+        content: <p>Management Information Systems and Services.</p>,
     },
     {
         date: '2020-2020',
