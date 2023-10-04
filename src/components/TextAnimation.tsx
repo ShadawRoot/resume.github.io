@@ -8,13 +8,13 @@ const TextAnimation = () => {
 
         <TypeAnimation
             sequence={[
-                "I'm a Python Full Stack Developer.",
+                "I'm a Full Stack Infra Enginner.",
                 2000,
                 "That's not all.",
                 1000,
-                'I can code with ReactJS, JavaScript, TypeScript VBA and Java.',
+                'I can Work in Linux, Windows, Vmware systems.',
                 3000,
-                'Of course HTML, CSS, SASS and modern design frameworks too.',
+                'Of course Network,and Security are my favorite domain too.',
                 3000,
 
                 () => {
