@@ -25,7 +25,7 @@ const TextAnimation = () => {
             cursor={true}
             repeat={Infinity}
             omitDeletionAnimation={false}
-            className={"before:content-['React/Resume-Website/']"}
+            className={"before:content-['About/MyResume/']"}
 
             //   style={{ fontSize: '15px' }}
         />
