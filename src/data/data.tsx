@@ -354,21 +354,19 @@ export const experience: TimelineItem[] = [
         title: 'Infrastructure Consultant',
         content: (
             <ul className='ml-8 list-disc'>
-                <li>Provide L2/L3 support for Windows and VMware systems.
-                </li>
+                <li>Provide L2/L3 support for Windows and VMware systems.</li>
                 <li>Supervise infrastructures and intervene on production incidents.</li>          
             </ul>
         ),
     },
     {
-        date: '2016 - 2019',
-        location: 'Kanzezol, Israel',
-        title: 'DevOps Software Developer',
+        date: 'Jan 2016 - Dec 2022',
+        location: 'Tanger, Morocco',
+        title: 'Cloud and Systems Enginner',
         content: (
             <ul className='ml-5 list-disc'>
-                <li>Developed automatization's for our e-commerce stores by Python & VBA.</li>
-                <li>Increased customer service efficiency by removing all routine tasks with automatization's.</li>
-                <li>Very often did data-based decisions and adjusted the software accordingly.</li>
+                <li>Provide L2/L3 support for Cloud Based on VMware & RHEV systems</li>
+                <li>Supervise infrastructures and intervene on production incidents L2/L3.</li>
             </ul>
         ),
     },
