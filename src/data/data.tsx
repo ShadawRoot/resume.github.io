@@ -338,30 +338,25 @@ export const education: TimelineItem[] = [
 
 export const experience: TimelineItem[] = [
     {
-        date: 'Dec 2022 - Present',
-        location: 'Bangkok, Thailand',
-        title: 'Full Stack Developer & Tech Manager.',
+        date: 'Apr 2023 - Present',
+        location: 'Toulouse, France',
+        title: 'Senior Systems Microsoft/Linux/Virtualization Engineer.',
         content: (
             <ul className='ml-5 list-disc'>
-                <li>Python, React based development of internal company services and integrations.</li>
-                <li>Responsible for management of creators, SEO, and all digital campaigns and services.</li>
+                <li>Assurer la MCO de l’infrastructure système et réaliser les projets de mise à jour.</li>
+                <li>Handle incidents, requests and infrastructure problems according to ITIL standards..</li>
             </ul>
         ),
     },
     {
-        date: '2019 - 2022',
-        location: 'Majestier, Singapore',
-        title: 'Backend Software Developer',
+        date: 'Feb 2022 -March 2023',
+        location: 'Toulouse, France',
+        title: 'Infrastructure Consultant',
         content: (
             <ul className='ml-8 list-disc'>
-                <li>Developed from scratch Python based backend system which synchronizing multiple
-                    e-commerce platforms & marketplaces such as eBay, Shopify, BigCommerce, WooCommerce
-                    and more in real-time.
+                <li>Provide L2/L3 support for Windows and VMware systems.
                 </li>
-                <li>Developed data analyzing tools, reports and other automatization's with Python.</li>
-                <li>Often worked with AWS services such as RDS, VPS and Linux based servers.</li>
-                <li>Maintained close relationships with our customers to understand the business needs.</li>
-
+                <li>Supervise infrastructures and intervene on production incidents.</li>          
             </ul>
         ),
     },
