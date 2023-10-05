@@ -120,10 +120,9 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
     profileImageSrc: profilePic,
-    description: `I'm a diligent software developer with years of experience in e-commerce automatization's and overall
-  python based business applications.
-  Developer with none standard thinking, very often coming with creative new ideas or improvements... Not many know but I traveled half the world and visited more than 50 countries as of today. During my travels one country touched me the most, Japan.
-  I was amazed of the culture and the food and decided to take my enthusiasm a step forward. I studied about Japan and learned how to cook Japanese food. Mastered sushi making, so I am not just a software developer but secretly a chef too.`,
+    description: `My experience spans over 15 years in IT fields (systems, IT infrastructure, storage, backup, networks, IS security, and project management) and I have a strong passion for them. 
+My work involves integrating IT Infrastructure and architecture, and I am also intrigued by Ethical Hacking. 
+DevOps self-studying has been underway since June 2022..`,
     aboutItems: [
         {label: 'Location', text: 'Center, Maroc', Icon: MapIcon},
         {label: 'Age', text: '40', Icon: CalendarIcon},
