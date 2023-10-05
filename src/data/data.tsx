@@ -197,11 +197,11 @@ export const skills: SkillGroup[] = [
                 level: 8,
             },
             {
-                name: 'Endpoint',
+                name: 'Endpoint Security',
                 level: 7,
             },
             {
-                name: 'PenTest',
+                name: 'PenTesting',
                 level: 6,
             },
         ],
@@ -213,25 +213,25 @@ export const skills: SkillGroup[] = [
  */
 export const portfolioItems: PortfolioItem[] = [
     {
-        title: 'Top10',
+        title: 'Project1',
         description: 'React, Python, MySql based AI websites engine that building itself automatically. Building it own content, graphics, articles and also promoting it own content by google ads and self managing promoted campaigns based on statistics and income.',
         url: 'https://shadawroot.github.io/resume.github.io/',
         image: topTen,
     },
     {
-        title: 'MediaRobot',
+        title: 'Project2',
         description: "Pure Python Bot. Which is extracting fresh data from marketplaces such as AliExpress and Amazon and then creating video based reviews. All videos uploaded by API to YouTube. Driving affiliated traffic and creating income automatically. Click Here for Video Sample.",
         url: 'https://shadawroot.github.io/resume.github.io/',
         image: mediaRobot,
     },
     {
-        title: 'Resume Website',
+        title: 'Project3',
         description: "This is my personal resume website. React, JS, TYPESCRIPT based. It based on open source code, however many key features added and fixed by me. More features will be added... Click Here for Source Code.",
         url: 'https://shadawroot.github.io/resume.github.io/',
         image: resumeWebsite,
     },
     {
-        title: 'py-image-compressor',
+        title: 'Project4',
         description: "Open-Source small weight Python based tool. This tool convert multiple images at once to modern formats such as webp. Can speed up any website with a single command.",
         url: 'https://shadawroot.github.io/resume.github.io/',
         image: pyImageCompressor,
@@ -379,20 +379,20 @@ export const testimonial: TestimonialSection = {
     imageSrc: testimonialImage,
     testimonials: [
         {
-            name: 'Hanan Hananaev',
-            text: "Without doubt one of the most talented programmers out there.  I always go back to George when I'm out of my depth and he's never failed to deliver what I ask for. Smart, trustworthy and professional.",
+            name: 'Person1',
+            text: "Without doubt one of the most talented programmers out there.  I always go back to Abdelilah when I'm out of my depth and he's never failed to deliver what I ask for. Smart, trustworthy and professional.",
             image: '/testimonials/hanan.webp',
             alt: "ITEM",
         },
         {
-            name: 'Tzuriel Nimni',
-            text: "I've known George for many years now, he's a very smart and talented guy. He always strives for the best in what he does, and you can be certain that he will not let you down.",
+            name: 'Person2',
+            text: "I've known Abdelilah for many years now, he's a very smart and talented guy. He always strives for the best in what he does, and you can be certain that he will not let you down.",
             image: '/testimonials/tzuriel.webp',
             alt: "ITEM",
         },
         {
-            name: 'Marina Rapaport',
-            text: "Any problem, malfunction or other hardware or software related issue that so called experts can't find or refuse to handle with hundred of excuses such as: not worth it, impossible. George probably will do quickly and hassle free. Very glad that I've met him and always able to direct to him some of my challenges. For sure, one of the most talented guys I've ever met.",
+            name: 'Person3',
+            text: "Any problem, malfunction or other hardware or software related issue that so called experts can't find or refuse to handle with hundred of excuses such as: not worth it, impossible. Abdelilah probably will do quickly and hassle free. Very glad that I've met him and always able to direct to him some of my challenges. For sure, one of the most talented guys I've ever met.",
             image: '/testimonials/marina.webp',
             alt: "ITEM",
         },
