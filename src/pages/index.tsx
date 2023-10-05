@@ -26,7 +26,7 @@ const Home: FC = memo(() => {
             <Resume/>
             <FavoriteTech/>
             <Portfolio/>
-            <AAA/>
+            <Testimonials/>
             <Contact/>
             <Footer/>
         </Page>
