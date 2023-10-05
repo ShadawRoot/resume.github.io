@@ -128,7 +128,7 @@ DevOps self-studying has been underway since June 2022..`,
         {label: 'Age', text: '40', Icon: CalendarIcon},
         {label: 'Nationality', text: 'Marocaine', Icon: FlagIcon},
         {label: 'Interests', text: 'IT, Gadgets, Diving', Icon: SparklesIcon},
-        {label: 'Study', text: 'HackerU Collage, Maroc', Icon: AcademicCapIcon},
+        {label: 'Study', text: 'PASCAL PAOLI , France', Icon: AcademicCapIcon},
         {label: 'Employment', text: 'Freelancer', Icon: OfficeBuildingIcon},
     ],
 };
@@ -155,54 +155,54 @@ export const skills: SkillGroup[] = [
         ],
     },
     {
-        name: 'Frontend development',
+        name: 'Systems',
         skills: [
             {
-                name: 'React',
-                level: 7,
+                name: 'Linux (RedHAT, Debian)',
+                level: 6,
             },
             {
-                name: 'JavaScript',
+                name: 'Windows (Desktop & Server)',
                 level: 8,
             },
             {
-                name: 'Typescript',
-                level: 6,
+                name: 'VMware (vSphere, vCenter, vRops)',
+                level: 7,
             },
 
         ],
     },
     {
-        name: 'Backend development',
+        name: 'Project Management',
         skills: [
             {
-                name: 'Python',
+                name: 'Planning',
                 level: 9,
             },
             {
-                name: 'Java',
+                name: 'Budget',
                 level: 4,
             },
             {
-                name: 'Node.js',
+                name: 'Quality',
                 level: 3,
             },
         ],
     },
     {
-        name: 'Mobile development',
+        name: 'Security SI',
         skills: [
             {
-                name: 'React Native',
+                name: 'SOC',
+                level: 8,
+            },
+            {
+                name: 'Endpoint',
+                level: 5,
+            },
+            {
+                name: 'PenTest',
                 level: 4,
-            },
-            {
-                name: 'Flutter',
-                level: 2,
-            },
-            {
-                name: 'Swift',
-                level: 2,
             },
         ],
     },
