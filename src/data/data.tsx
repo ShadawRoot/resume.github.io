@@ -181,11 +181,11 @@ export const skills: SkillGroup[] = [
             },
             {
                 name: 'Budget',
-                level: 4,
+                level: 6,
             },
             {
                 name: 'Quality',
-                level: 3,
+                level: 6,
             },
         ],
     },
@@ -198,11 +198,11 @@ export const skills: SkillGroup[] = [
             },
             {
                 name: 'Endpoint',
-                level: 5,
+                level: 7,
             },
             {
                 name: 'PenTest',
-                level: 4,
+                level: 6,
             },
         ],
     },
@@ -327,6 +327,12 @@ export const education: TimelineItem[] = [
         location: 'University Corsica Pasquale Paoli',
         title: 'MASTER1',
         content: <p>Integration of Information Systems</p>,
+    },
+        {
+        date: '2004-2006',
+        location: 'Specialized Institute of Applied Technology of Mohammedia',
+        title: 'DUG (BAC+2)',
+        content: <p>Network and Security of Information Systems</p>,
     },
 ];
 
