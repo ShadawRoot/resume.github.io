@@ -86,7 +86,7 @@ export const heroData: Hero = {
         <>
             <p className="prose-sm text-stone-50 sm:prose-base lg:prose-lg">
                 I'm working as <strong className="text-sky-500">Infra & System Consultant </strong> I am specialized in <i className="text-sky-200 fa-brands vmwarePic">CLOUD & ETHICAL HACKING </i> enthusiast. <br></br> Currently
-                working at  <strong className="text-sky-200">CAPGEMINI</strong> as a Full Stack Infra Enginner.
+                working at  <strong className="text-sky-200">COMPANY</strong> as a Full Stack Infra Enginner.
             </p>
 
 
