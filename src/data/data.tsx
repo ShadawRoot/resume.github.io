@@ -102,7 +102,7 @@ export const heroData: Hero = {
     ),
     actions: [
         {
-            href: 'https://drive.google.com/file/d/1M5jndPJIw2H-3_0ZJl39I8PsDZCZmLI-/view?usp=drive_link',
+            href: '/src/images/CV_abdelilah_lamhamdi.pdf',
             text: 'Resume',
             primary: true,
             Icon: DownloadIcon,
