@@ -102,7 +102,7 @@ export const heroData: Hero = {
     ),
     actions: [
         {
-            href: '/src/images/CV_abdelilah_lamhamdi.pdf',
+            href: 'https://github.com/ShadawRoot/resume.github.io/blob/main/src/images/CV_abdelilah_lamhamdi.pdf',
             text: 'Resume',
             primary: true,
             Icon: DownloadIcon,
